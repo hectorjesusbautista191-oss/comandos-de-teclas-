@@ -1,0 +1,13 @@
+CONTROLS
+Control C :(copia palabrasy textos seleciomados para usar en otros momentos ; solo puedes copiar un archivo si intentas copiar mas se eliminara el anterior)
+control v :(pega las palabras otextos que copias con control c)
+control x :(cortar el elemento selecionado o recorre hacia la derecha un espacio )
+control z :(te regresa a la ultima accion que haz realizado)
+control p :(manda imprimir)
+control a :(seleciona todo el texto)
+control g :(guarda el archivo[cambia dependiendo la plataforma] )
+control f :(abre una ventana de busqueda)
+controles esclusivos (windows)
+ctrl+shift+esc :(abre administracion de tareas del sitema)
+crt+tb :(mueve de pagina)
+tecla windows+D :( minimiza todas las ventanas)
