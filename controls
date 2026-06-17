@@ -5,6 +5,7 @@ control x :(cortar el elemento selecionado o recorre hacia la derecha un espacio
 control z :(te regresa a la ultima accion que haz realizado)
 control p :(manda imprimir)
 control a :(seleciona todo el texto)
+control r :(recarga la pagina)
 control g :(guarda el archivo[cambia dependiendo la plataforma] )
 * para gitbash es ctrl+s
 * para gogle documents es crtl+g
